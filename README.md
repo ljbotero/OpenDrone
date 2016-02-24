@@ -11,4 +11,4 @@ The Open Drone project aims to create a generic quadcopter 3d-printed frame full
 - Space for remote control transmitter, telemetry transmitter, and video transmitter (FPV)
 - Space for large battery at the bottom of the drone for easy access
 
-All files are also available at http://www.thingiverse.com/thing:1365106
+You can find pictures of 3d printed versions of OpenDrone at http://www.thingiverse.com/thing:1365106
