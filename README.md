@@ -12,3 +12,5 @@ The Open Drone project aims to create a generic quadcopter 3d-printed frame full
 - Space for large battery at the bottom of the drone for easy access
 
 You can find pictures of 3d printed versions of OpenDrone at http://www.thingiverse.com/thing:1365106
+
+For a full list of parts visit our Wiki at https://github.com/ljbotero/OpenDrone/wiki
