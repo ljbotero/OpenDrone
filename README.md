@@ -13,4 +13,10 @@ The Open Drone project aims to create a generic quadcopter 3d-printed frame full
 
 You can find pictures of 3d printed versions of OpenDrone at http://www.thingiverse.com/thing:1365106
 
-For a full list of parts visit our Wiki at https://github.com/ljbotero/OpenDrone/wiki
+For a full list of parts visit our Wiki at https://github.com/ljbotero/OpenDrone/wiki/Configurations-&-Parts
+
+Recent updates (3/6/2016) v 2.3
+
+Reduced overall material from 337cm3 to 229cm3 (or about 134g of PLA)
+Removed front mounted camera gimbal due issue with vibrations cased by propellers
+Created new flight controller and GPS mount. This allows to skin the GPS out of it's shell to reduce some weight (I'm leaving the previous one 2,2 available in case you want to use it)
