@@ -17,6 +17,6 @@ For a full list of parts visit our Wiki at https://github.com/ljbotero/OpenDrone
 
 Recent updates (3/6/2016) v 2.3
 
-Reduced overall material from 337cm3 to 229cm3 (or about 134g of PLA)
-Removed front mounted camera gimbal due issue with vibrations cased by propellers
-Created new flight controller and GPS mount. This allows to skin the GPS out of it's shell to reduce some weight (I'm leaving the previous one 2,2 available in case you want to use it)
+- Reduced overall material from 337cm3 to 229cm3 (or about 134g of PLA)
+- Removed front mounted camera gimbal due issue with vibrations cased by propellers
+- Created new flight controller and GPS mount. This allows to skin the GPS out of it's shell to reduce some weight (I'm leaving the previous one 2,2 available in case you want to use it)
